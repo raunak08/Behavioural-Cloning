@@ -10,11 +10,11 @@ The steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./Trial_4/IMG/center_2019_01_08_18_38_51_060.jpg "Right Turn"
-[image2]: ./Trial_4/IMG/center_2019_01_10_07_39_08_408.jpg "Left Turn"
-[image3]: ./Trial_4/IMG/left_2019_01_10_07_37_39_679.jpg "Left Camera Image"
-[image4]: ./Trial_4/IMG/center_2019_01_10_07_37_39_679.jpg "Center Camera Image"
-[image5]: ./Trial_4/IMG/right_2019_01_10_07_37_39_679.jpg "Right Camera Image"
+[image1]: ./IMG/center_2019_01_08_18_38_51_060.jpg "Right Turn"
+[image2]: ./IMG/center_2019_01_10_07_39_08_408.jpg "Left Turn"
+[image3]: ./IMG/left_2019_01_10_07_37_39_679.jpg "Left Camera Image"
+[image4]: ./IMG/center_2019_01_10_07_37_39_679.jpg "Center Camera Image"
+[image5]: ./IMG/right_2019_01_10_07_37_39_679.jpg "Right Camera Image"
 
 ---
 * The github includes all required files and can be used to run the simulator in autonomous mode
