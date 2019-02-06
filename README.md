@@ -16,6 +16,7 @@ The steps of this project are the following:
 [image4]: ./Trial_4/IMG/center_2019_01_10_07_37_39_679.jpg "Center Camera Image"
 [image5]: ./Trial_4/IMG/right_2019_01_10_07_37_39_679.jpg "Right Camera Image"
 
+---
 * The github includes all required files and can be used to run the simulator in autonomous mode
 Following are the files:
   * model.py containing the script to create and train the model (if required, changes to model can be made here!) 
@@ -30,7 +31,7 @@ Following are the files:
 * The model.py file contains the code for training and saving the convolution neural network. The file shows the pipeline I used for training and validating the model, and it contains comments to explain how the code works.
 
 
-## Using Simulator to record data
+## Using simulator to record data
 * The simulator provides to mode to play with, training mode and autonomous mode.
 * Training mode is used to collect the data and autonomous mode is used to let the car run on the trained model.
 * During training mode, the data collected is in images and a driving log, where driving log is a in csv format.
