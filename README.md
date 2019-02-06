@@ -61,7 +61,7 @@ Following are the files:
 | Flatten                         | (1)               |
 
 ### 2. Solution Design Approach
-The model used for this solution was inspired from the (DeepGaze)[https://github.com/mpatacchiola/deepgaze] Head Pose Estimation Architecture. There the model is used to estimate the Yaw, Pitch and Roll angles of the head from Head images. The same model with neural style transfer approach has been utilised.
+The model used for this solution was inspired from the [DeepGaze](https://github.com/mpatacchiola/deepgaze) Head Pose Estimation Architecture. There the model is used to estimate the Yaw, Pitch and Roll angles of the head from Head images. The same model with neural style transfer approach has been utilised.
 
 ### 3. Creation of the Training Set & Training Process
 To capture good driving behavior, I first recorded two laps on track one with original lap direction and the other in opposite direction of the lap. Here is an example both the images of driving:
